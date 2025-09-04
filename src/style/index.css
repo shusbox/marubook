@@ -8,20 +8,6 @@
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
-
-  --text-primary: #2C2C2C;
-  --text-secondary: #4A4A4A;
-  --text-disabled: #B0B0B0;
-
-  --bg-default: #FFFFFE;
-  --bg-surface: #F8F7F5;
-
-  --primary-50: #F8F7F3;
-  --primary-100: #EAE5DA;
-  --primary-200: #DFD8C8;
-  --primary-300: #D1C7AF;
-  --primary-400: #C8BC9F;
-  --primary-500: #BAAB87;
 }
 
 html, body {
